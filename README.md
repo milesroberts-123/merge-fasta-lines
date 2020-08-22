@@ -24,6 +24,8 @@ ATGCATGCATGCATGCATGCATGC
 TATATATAGCGCGCGCTATATATAGCGCGCGC
 ```
 
+This script takes fasta files in the former format and converts them into the latter format. In other words, it **linearizes** fasta files.
+
 ## USAGE
 
 There are two ways to use this script.
