@@ -26,6 +26,8 @@ TATATATAGCGCGCGCTATATATAGCGCGCGC
 
 This script takes fasta files in the former format and converts them into the latter format. In other words, it **linearizes** fasta files.
 
+It will work on fasta files containing any number of sequences and any number of characters per line, including fasta files that have a variable number of characters per line.
+
 ## USAGE
 
 There are two ways to use this script.
